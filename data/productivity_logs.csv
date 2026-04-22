@@ -1,0 +1,113 @@
+date,task_name,category,start_time,end_time,energy_level,completed,notes
+2025-01-01,Watch lecture,learning,08:00,09:00,4,true,Good session
+2025-01-01,Algorithm design,deep_work,09:15,09:45,5,true,Productive session
+2025-01-01,Debug complex issue,deep_work,10:00,11:30,4,true,
+2025-01-01,Data analysis,deep_work,11:00,11:45,4,true,Felt focused
+2025-01-02,Documentation update,admin,08:00,08:45,4,true,Routine tasks
+2025-01-02,Data analysis,deep_work,09:45,10:45,4,false,In the zone
+2025-01-02,Debug complex issue,deep_work,11:30,12:15,3,true,Hard to concentrate
+2025-01-02,Online course module,learning,12:15,13:15,3,true,Hard to follow
+2025-01-02,Algorithm design,deep_work,14:00,14:45,3,false,Productive session
+2025-01-02,Online course module,learning,15:15,16:00,2,true,Need to review again
+2025-01-03,File organization,admin,08:00,09:00,4,true,Took longer than expected
+2025-01-03,Paper review,deep_work,10:30,11:00,4,true,Felt focused
+2025-01-03,Write research report,deep_work,11:15,12:45,4,true,In the zone
+2025-01-03,Algorithm design,deep_work,12:30,13:15,4,true,Got distracted
+2025-01-06,Write research report,deep_work,08:30,10:00,4,true,Felt focused
+2025-01-06,File organization,admin,11:15,12:15,5,true,Cleared backlog
+2025-01-06,Watch lecture,learning,12:30,14:00,4,true,Applied concepts
+2025-01-06,Reply to emails,admin,15:45,16:15,3,true,Quick and easy
+2025-01-06,Slack catchup,admin,16:00,17:00,4,true,Backed up inbox
+2025-01-07,Study group,meetings,08:45,09:15,5,true,Could have been email
+2025-01-07,Watch lecture,learning,09:00,09:30,4,true,Hard to follow
+2025-01-07,Debug complex issue,deep_work,10:15,11:00,4,true,Productive session
+2025-01-07,Code feature implementation,deep_work,12:45,13:30,5,true,Hard to concentrate
+2025-01-08,1:1 with mentor,meetings,08:15,08:45,4,true,Good alignment
+2025-01-08,Team standup,meetings,09:45,10:45,4,true,Useful feedback
+2025-01-08,1:1 with mentor,meetings,11:15,12:15,3,false,Useful feedback
+2025-01-08,Brainstorming session,meetings,12:45,13:30,4,true,Good alignment
+2025-01-08,Documentation update,admin,14:30,16:00,3,false,Quick and easy
+2025-01-08,Reply to emails,admin,16:00,16:30,2,false,Cleared backlog
+2025-01-08,Paper review,deep_work,17:00,17:30,2,true,Hard to concentrate
+2025-01-09,Practice LeetCode,learning,08:45,09:30,4,true,Hard to follow
+2025-01-09,Code feature implementation,deep_work,10:15,11:00,4,false,Good progress
+2025-01-09,Team standup,meetings,12:15,13:45,3,true,Good alignment
+2025-01-09,System architecture,deep_work,13:30,15:00,3,true,Productive session
+2025-01-09,Weekly planning,admin,16:15,17:15,2,true,
+2025-01-09,Documentation update,admin,17:00,18:30,3,true,Quick and easy
+2025-01-10,Model training,deep_work,08:30,09:30,4,true,Productive session
+2025-01-10,Data analysis,deep_work,10:30,12:00,3,true,Productive session
+2025-01-10,Model training,deep_work,13:15,14:00,2,true,Struggled to start
+2025-01-10,Code review session,meetings,15:45,16:30,3,true,
+2025-01-13,Debug complex issue,deep_work,08:45,09:15,5,true,Got distracted
+2025-01-13,Online course module,learning,10:15,11:45,5,false,Need to review again
+2025-01-13,Calendar management,admin,12:15,13:00,5,true,Took longer than expected
+2025-01-13,Weekly planning,admin,14:00,14:30,3,true,Quick and easy
+2025-01-13,Expense report,admin,15:15,16:00,3,true,Took longer than expected
+2025-01-14,Online course module,learning,08:45,10:15,5,true,Need to review again
+2025-01-14,Office hours,meetings,10:45,12:15,5,true,Good alignment
+2025-01-14,Reply to emails,admin,12:45,14:15,4,false,Cleared backlog
+2025-01-14,Office hours,meetings,15:00,16:30,4,true,Good alignment
+2025-01-15,Team standup,meetings,08:45,09:45,5,true,Ran long
+2025-01-15,Data analysis,deep_work,09:45,10:45,4,true,Good progress
+2025-01-15,Algorithm design,deep_work,11:45,12:45,4,true,Felt focused
+2025-01-15,Study documentation,learning,13:45,14:15,3,false,
+2025-01-15,Brainstorming session,meetings,15:00,16:00,3,false,Useful feedback
+2025-01-16,Office hours,meetings,08:00,09:00,4,true,Useful feedback
+2025-01-16,Debug complex issue,deep_work,10:30,11:00,5,true,Got distracted
+2025-01-16,Research new tools,learning,12:30,13:00,4,true,Applied concepts
+2025-01-16,Team standup,meetings,14:45,15:15,3,true,
+2025-01-16,Tutorial walkthrough,learning,16:30,18:00,3,false,Applied concepts
+2025-01-17,Model training,deep_work,08:30,09:15,3,true,Felt focused
+2025-01-17,Expense report,admin,10:15,11:15,3,true,Backed up inbox
+2025-01-17,1:1 with mentor,meetings,12:30,14:00,3,false,Good alignment
+2025-01-17,Team standup,meetings,15:30,17:00,2,false,Useful feedback
+2025-01-20,Model training,deep_work,08:45,09:15,4,true,
+2025-01-20,Slack catchup,admin,10:30,12:00,5,true,Backed up inbox
+2025-01-20,Code feature implementation,deep_work,13:30,14:15,3,false,Hard to concentrate
+2025-01-20,File organization,admin,15:30,17:00,3,true,Backed up inbox
+2025-01-20,Office hours,meetings,17:00,18:30,3,true,Ran long
+2025-01-21,Code feature implementation,deep_work,08:15,09:45,4,true,Struggled to start
+2025-01-21,Team standup,meetings,09:15,10:00,4,true,Ran long
+2025-01-21,Study group,meetings,11:15,11:45,4,true,Could have been email
+2025-01-21,1:1 with mentor,meetings,11:30,12:30,4,true,Good alignment
+2025-01-21,Debug complex issue,deep_work,13:45,14:45,2,true,Good progress
+2025-01-21,Study documentation,learning,15:30,17:00,3,true,Need to review again
+2025-01-22,Debug complex issue,deep_work,08:45,09:15,4,true,
+2025-01-22,Code feature implementation,deep_work,09:15,10:15,4,true,Productive session
+2025-01-22,Team standup,meetings,11:45,12:15,3,true,Good alignment
+2025-01-22,Online course module,learning,12:15,13:00,3,true,Good session
+2025-01-22,Code review session,meetings,13:00,14:30,2,false,Ran long
+2025-01-22,Office hours,meetings,14:00,15:30,3,true,Could have been email
+2025-01-22,Algorithm design,deep_work,16:15,17:45,2,false,In the zone
+2025-01-23,System architecture,deep_work,08:45,09:15,4,false,Struggled to start
+2025-01-23,Code feature implementation,deep_work,10:45,11:15,4,true,Struggled to start
+2025-01-23,Read ML paper,learning,12:45,13:30,4,false,Interesting material
+2025-01-23,Paper review,deep_work,13:30,14:30,2,false,Good progress
+2025-01-24,Paper review,deep_work,08:15,09:00,4,false,Good progress
+2025-01-24,Slack catchup,admin,10:15,11:00,3,false,Routine tasks
+2025-01-24,Team standup,meetings,11:45,12:30,3,false,Could have been email
+2025-01-24,Debug complex issue,deep_work,13:15,14:00,1,false,Good progress
+2025-01-24,Weekly planning,admin,15:30,17:00,2,false,Took longer than expected
+2025-01-24,Team standup,meetings,17:00,18:30,2,false,
+2025-01-27,Research new tools,learning,08:30,10:00,5,true,
+2025-01-27,Paper review,deep_work,10:15,11:15,4,true,Struggled to start
+2025-01-27,1:1 with mentor,meetings,12:30,13:15,4,true,
+2025-01-27,Update task tracker,admin,13:45,14:45,3,true,Backed up inbox
+2025-01-27,Weekly planning,admin,15:30,16:00,3,false,
+2025-01-27,Online course module,learning,17:00,17:45,3,false,Hard to follow
+2025-01-28,System architecture,deep_work,08:45,10:15,4,true,Felt focused
+2025-01-28,Team standup,meetings,11:30,12:00,4,true,Good alignment
+2025-01-28,Code review session,meetings,13:15,14:45,3,true,Ran long
+2025-01-28,Project sync,meetings,15:15,16:15,4,false,Useful feedback
+2025-01-29,Write research report,deep_work,08:00,08:30,4,true,Productive session
+2025-01-29,Office hours,meetings,08:30,09:15,4,true,Could have been email
+2025-01-29,1:1 with mentor,meetings,10:00,10:45,3,true,
+2025-01-29,Model training,deep_work,10:15,11:45,4,true,In the zone
+2025-01-29,Slack catchup,admin,12:00,13:30,4,true,Took longer than expected
+2025-01-30,Code feature implementation,deep_work,08:45,10:15,4,true,Productive session
+2025-01-30,Brainstorming session,meetings,11:30,13:00,4,true,Useful feedback
+2025-01-30,Paper review,deep_work,13:30,14:30,3,true,
+2025-01-30,Model training,deep_work,15:45,16:15,3,true,Good progress
+2025-01-30,Slack catchup,admin,16:00,16:30,3,true,
+2025-01-30,Documentation update,admin,17:30,18:15,2,true,Quick and easy
