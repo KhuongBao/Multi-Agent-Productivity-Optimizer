@@ -4,6 +4,8 @@ A small pipeline that reads your productivity logs, runs several AI agents in or
 
 It uses **Google Gemini** for the LLM steps. Default input data is `data/productivity_logs.csv`.
 
+**Full write-up:** See [report.pdf](report.pdf) for methodology, results, and analysis.
+
 ## Setup
 
 1. **Python 3** with these packages (install however you like):
